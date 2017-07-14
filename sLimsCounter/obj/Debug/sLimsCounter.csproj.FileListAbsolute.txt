@@ -1,0 +1,12 @@
+D:\My Data\Program\C#\sLimsCounter\sLimsCounter\sLimsCounter\bin\Debug\sLimsCounter.exe.config
+D:\My Data\Program\C#\sLimsCounter\sLimsCounter\sLimsCounter\bin\Debug\sLimsCounter.exe
+D:\My Data\Program\C#\sLimsCounter\sLimsCounter\sLimsCounter\bin\Debug\sLimsCounter.pdb
+D:\My Data\Program\C#\sLimsCounter\sLimsCounter\sLimsCounter\obj\Debug\sLimsCounter.Properties.Resources.resources
+D:\My Data\Program\C#\sLimsCounter\sLimsCounter\sLimsCounter\obj\Debug\sLimsCounter.csproj.GenerateResource.Cache
+D:\My Data\Program\C#\sLimsCounter\sLimsCounter\sLimsCounter\obj\Debug\sLimsCounter.exe
+D:\My Data\Program\C#\sLimsCounter\sLimsCounter\sLimsCounter\obj\Debug\sLimsCounter.pdb
+D:\My Data\Program\C#\sLimsCounter\sLimsCounter\sLimsCounter\obj\Debug\sLimsCounter.csprojResolveAssemblyReference.cache
+D:\My Data\Program\C#\sLimsCounter\sLimsCounter\sLimsCounter\obj\Debug\sLimsCounter.MainForm.resources
+D:\My Data\Program\C#\sLimsCounter\sLimsCounter\sLimsCounter\obj\Debug\sLimsCounter.SettingsForm.resources
+D:\My Data\Program\C#\sLimsCounter\sLimsCounter\sLimsCounter\bin\Debug\MySql.Data.dll
+D:\My Data\Program\C#\sLimsCounter\sLimsCounter\sLimsCounter\bin\Debug\MySql.Data.xml
